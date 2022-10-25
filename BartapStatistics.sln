@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BartapStatistics", "BartapStatistics\BartapStatistics.csproj", "{B1EAB849-D0A5-47EA-9952-2833D3B7C192}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BartapStatistics.Test", "BartapStatistics.Test\BartapStatistics.Test.csproj", "{8F6C4CC6-87E6-4349-A2E4-D6DA27E5135B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1EAB849-D0A5-47EA-9952-2833D3B7C192}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EAB849-D0A5-47EA-9952-2833D3B7C192}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EAB849-D0A5-47EA-9952-2833D3B7C192}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EAB849-D0A5-47EA-9952-2833D3B7C192}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6C4CC6-87E6-4349-A2E4-D6DA27E5135B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6C4CC6-87E6-4349-A2E4-D6DA27E5135B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6C4CC6-87E6-4349-A2E4-D6DA27E5135B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6C4CC6-87E6-4349-A2E4-D6DA27E5135B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
